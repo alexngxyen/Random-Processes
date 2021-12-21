@@ -1,2 +1,2 @@
 # Random-Processes
-Computer projects for graduate level Random Processes course.
+The computer projects for a graduate level EECS course in Random Processes.
